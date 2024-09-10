@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Philosophie (L1B et L2B)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: L2B
+        menu:
+          - text: "Bibliographie"
+            href: BibliographieL2B.qmd
+          - text: "Marche du cours"
+            href: Marcheducours.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

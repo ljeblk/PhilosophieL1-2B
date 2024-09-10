@@ -1,0 +1,8 @@
+---
+title: "Philosophie (L1B et L2B)"
+---
+
+Ceci est le site sur lequel seront mis à disposition certains des éléments accompagnant les cours de philosophie de L1B et de L2B de l'année 2024-2025.
+
+(To learn more about Quarto websites visit <https://quarto.org/docs/websites>.)
+
