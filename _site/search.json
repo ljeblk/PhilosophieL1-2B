@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Philosophie (L1B et L2B)",
+    "objectID": "Marcheducours.html",
+    "href": "Marcheducours.html",
+    "title": "Marche du cours",
     "section": "",
-    "text": "Ceci est le site sur lequel seront mis à disposition certains des éléments accompagnant les cours de philosophie de L1B et de L2B de l’année 2024-2025.\n(To learn more about Quarto websites visit https://quarto.org/docs/websites.)"
+    "text": "Présentation générale"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "L2B",
+    "objectID": "Marcheducours.html#lundi-9-septembre",
+    "href": "Marcheducours.html#lundi-9-septembre",
+    "title": "Marche du cours",
     "section": "",
-    "text": "Bibliographie : La Morale"
+    "text": "Présentation générale"
+  },
+  {
+    "objectID": "Marcheducours.html#mardi-10-septembre",
+    "href": "Marcheducours.html#mardi-10-septembre",
+    "title": "Marche du cours",
+    "section": "mardi 10 septembre",
+    "text": "mardi 10 septembre\nPrésentation générale (suite)"
+  },
+  {
+    "objectID": "Marcheducours.html#lundi-16-septembre",
+    "href": "Marcheducours.html#lundi-16-septembre",
+    "title": "Marche du cours",
+    "section": "lundi 16 septembre",
+    "text": "lundi 16 septembre\nPrésentation générale (fin)"
   },
   {
     "objectID": "BibliographieL2B.html",
@@ -96,5 +110,19 @@
     "title": "BibliographieL2B",
     "section": "Divers",
     "text": "Divers\nVincent Descombes, Le Complément de sujet Enquête sur le fait d’agir de soi-même,Gallimard, 2004. On lira II. Eclaircissement logiques et syntaxiques et IV. Les éthiques du sujet. Du même auteur, on lira aussi dans Le Raisonnement de l’ours et autres essais de philosophie pratique, Seuil, 2007, les chapitres suivants : Introduction. Philosopher en matière pratique, Le raisonnement de l’ours, Que peut-on demander à la philosophie morale ?\nRuwen Ogien, L’Ethique aujourd’hui : maximalistes et minimalistes, Folio, 2007\nJohn Langshaw Austin, “Plaidoyer pour les excuses”, dans Ecrits philosophiques, Seuil, 1994. Le texte sera mis à votre disposition grâce à la liste de diffusion. Le texte anglais est disponible ici à la page 175.\nBérengère Parmentier, Le Siècle des moralistes, Points, Seuil, 2000. On peut fréquenter les Maximes de La Rochefoucauld. Dans Montaigne, on pourra lire au moins dans le troisième livre des Essais, le chapitre 10 “De mesnager sa volonté”. On ne négligera pas Pascal.\nPourquoi pas Paul Ricœur, Du texte à l’action, Essais d’herméneutique II, “La raison pratique”, p. 263-288, Points Seuil, 1986? Un petit texte qui peut être utile du fait de quelques remarques sur la rationalité pratique chez Aristote, Kant et Hegel.\nFrançoise Coblence, Le Dandysme, obligation d’incertitude, PUF, 1988. Disponible sur Cairn."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "L2B",
+    "section": "",
+    "text": "Bibliographie : La Morale"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Philosophie (L1B et L2B)",
+    "section": "",
+    "text": "Ceci est le site sur lequel seront mis à disposition certains des éléments accompagnant les cours de philosophie de L1B et de L2B de l’année 2024-2025.\n(To learn more about Quarto websites visit https://quarto.org/docs/websites.)"
   }
 ]
